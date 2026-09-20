@@ -105,7 +105,7 @@ The dashboard was designed with interactive filters for:
 
 ## Project Files
 
-- `retail_python_cleaning` - Python/Pandas data cleaning
+- `retail_sales_cleaning.ipynb` - Python/Pandas data cleaning
 - `retail_sales_analysis.sql` - SQL analysis queries
-- `RETAIL_VISUAL.pbix` - Power BI dashboard
+- `retail_sales_dashboard.pbix` - Power BI dashboard
 - `README.md` - Project documentation
