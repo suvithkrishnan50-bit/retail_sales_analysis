@@ -16,7 +16,7 @@ The dashboard helps explore sales across different dates, categories, payment me
 
 ## Dashboard
 
-![Retail Sales Dashboard](Screenshot%202026-09-20%20111805.png)
+![Retail Sales Dashboard](retail_sales_dashboard.png)
 
 The dashboard includes:
 
